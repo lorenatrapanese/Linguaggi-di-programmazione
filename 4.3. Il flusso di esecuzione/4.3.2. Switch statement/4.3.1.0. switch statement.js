@@ -1,3 +1,8 @@
+/*
+Clicca tenendo premuto Ctrl sul link di seguito per aprire il paragrafo su Notion
+https://www.notion.so/4-3-Il-flusso-di-esecuzione-8ac85946771744fcb6766ff7cc46e5fe?pvs=4#190907169a804b33ad4923de0748e7d9
+*/
+
 function setup() {
     var voto = 6
 
